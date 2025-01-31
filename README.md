@@ -186,3 +186,4 @@ Feel free to build out any helper methods if needed.
     - lines 31-32, 47-48, 71-72, and 106-107
   - **venue_test.py**
     - lines 28-29, 41-42, 64-65, and 77-78
+# code-challenge-2
